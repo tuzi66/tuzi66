@@ -5,7 +5,7 @@ I am a learning student from China. I like open source and all interesting thing
 I want to be an interesting person.
 
 - 🌱 I'm currently learning Java, C and Java server pages and want to learn all the interesting things. 
-- ❤️ ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
+- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 💬 Be free to ask me about anything [here](https://github.com/tuzi66/tuzi66/issues).
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tuzi66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
